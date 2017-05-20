@@ -1,0 +1,16 @@
+{
+  "name": "franklan/ml",
+  "description": "php machine learning project",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Frank Lan",
+      "email": "franklan118@gmail.com"
+    }
+  ],
+  "require": {
+    "php-ai/php-ml": "^0.4.1",
+    "rappasoft/laravel-helpers": "dev-master"
+  }
+}

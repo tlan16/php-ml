@@ -1,0 +1,95 @@
+[
+    {
+        "name": "php-ai/php-ml",
+        "version": "0.4.1",
+        "version_normalized": "0.4.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-ai/php-ml.git",
+            "reference": "39747efdc1ff781939c45f321475f00f71ef3172"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-ai/php-ml/zipball/39747efdc1ff781939c45f321475f00f71ef3172",
+            "reference": "39747efdc1ff781939c45f321475f00f71ef3172",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.0"
+        },
+        "time": "2017-03-05 15:45:48",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Phpml": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Arkadiusz Kondas",
+                "email": "arkadiusz.kondas@gmail.com"
+            }
+        ],
+        "description": "PHP-ML - Machine Learning library for PHP",
+        "homepage": "https://github.com/php-ai/php-ml",
+        "keywords": [
+            "Neural network",
+            "artificial intelligence",
+            "computational learning theory",
+            "data science",
+            "feature extraction",
+            "machine learning",
+            "pattern recognition"
+        ]
+    },
+    {
+        "name": "rappasoft/laravel-helpers",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rappasoft/laravel-helpers.git",
+            "reference": "9dfbb3f316db9ec304eeeb94d2cfedd803680a57"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rappasoft/laravel-helpers/zipball/9dfbb3f316db9ec304eeeb94d2cfedd803680a57",
+            "reference": "9dfbb3f316db9ec304eeeb94d2cfedd803680a57",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2016-10-19 14:15:19",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "src/helpers.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anthony Rappa",
+                "email": "rappa819@gmail.com"
+            }
+        ],
+        "description": "Laravel Helpers for Non-Laravel Projects",
+        "keywords": [
+            "helpers",
+            "laravel"
+        ]
+    }
+]
